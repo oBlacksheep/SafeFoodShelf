@@ -1,0 +1,2 @@
+../Core/Src/ServoMotor.c:12:6:ServoMotor_Init	1
+../Core/Src/ServoMotor.c:20:6:ServoMotor_Set_Angle	1
