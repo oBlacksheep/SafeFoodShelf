@@ -2,6 +2,8 @@ Project for mircoprocessor assignment.
 
 Group name: GOGO Micro
 
+Project name: Safe Food Shelf
+
 Program used: STM32CUBEIDE
 
 Board used: STM32F401CCU6 (Black Pill) + ST-link
